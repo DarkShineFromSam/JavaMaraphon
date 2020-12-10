@@ -1,0 +1,7 @@
+.idea
+out/
+tpu/
+
+*.txt
+*.iml
+*.class
